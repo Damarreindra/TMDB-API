@@ -1,0 +1,35 @@
+*{
+    font-family: 'Poppins', sans-serif;   
+}
+
+.navbar-brand{
+    font-weight: 600;
+    color: #588157;
+}
+
+.navbar-brand:hover{
+    color: #a3b18a;
+}
+
+button{
+background-color: #588157;
+}
+
+.card-img-overlay{
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,2) 0%, rgba(72,72,77,0) 100%, rgba(255,255,255,0) 100%);
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    font-size: 12px;
+}
+
+i{
+    color: yellow;
+}
+
+
