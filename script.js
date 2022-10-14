@@ -30,7 +30,7 @@ function renderMovies(data){
         movContainer.classList.add("col-md-3");
         movContainer.innerHTML += 
     `
-    <div class="card mt-3 mb-3">
+    <div class="card mt-3 mb-3 ">
       <img src="${IMG_URL + poster_path}" class="img rounded" alt="...">
         <div class="card-img-overlay">
         <div class="row text-light">
